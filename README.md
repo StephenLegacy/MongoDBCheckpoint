@@ -1,6 +1,4 @@
-Here's a well-structured and professional **README.md** you can use to explain your MongoDB CRUD operations performed via **MongoDB Playground** in **VS Code**:
 
----
 
 # 📁 MongoDB CRUD Operations Using MongoDB Playground in VS Code
 
@@ -123,22 +121,13 @@ await db.collection("contactlist").find().toArray();
 
 ---
 
-## 🖼️ Screenshots (To Be Included)
-
-Include screenshots of:
-
-* Initial document insertions
-* Queries and filters
-* Update confirmation
-* Deleted records
-* Final state of the collection
+## 🖼️ Screenshots 
+They show code snippet and results on the playground
 
 ---
 
 ## ✅ Summary
 
-This project demonstrates how to use **MongoDB Playground** within **VS Code** to perform CRUD operations in a clean, interactive, and developer-friendly environment. It’s great for quick testing, practice, and prototyping with MongoDB.
+This assignment checkpoint demonstrates how to use **MongoDB Playground** within **VS Code** to perform CRUD operations in a clean, interactive, and developer-friendly environment. It’s great for quick testing, practice, and prototyping with MongoDB.
 
 ---
-
-Let me know if you'd like the same content exported as a PDF or formatted for GitHub!
