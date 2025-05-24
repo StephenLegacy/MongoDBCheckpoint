@@ -2,7 +2,7 @@
 
 # 📁 MongoDB CRUD Operations Using MongoDB Playground in VS Code
 
-This project demonstrates how to perform basic CRUD (Create, Read, Update, Delete) operations in **MongoDB** using the **MongoDB Playground feature in Visual Studio Code**.
+This assignment checkpoint demonstrates how to perform basic CRUD (Create, Read, Update, Delete) operations in **MongoDB** using the **MongoDB Playground feature in Visual Studio Code**.
 
 ---
 
